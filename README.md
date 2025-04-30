@@ -78,7 +78,7 @@ The system uses a deep learning model trained on a diverse dataset of face mask 
 - [David Lam](https://github.com/davidgit3000) - built and trained a model
 - [Huynh Pham](https://github.com/HuynhPham0302) - adjusted the face detection model parameters
 - [Minh Nhat Doan](https://github.com/nhatminh23-03) - attempted with different techniques
-- [Henry Do](https://github.com/henrydo2003) - tested the model
+- [Henry Do](https://github.com/Henry1997Do) - tested the model
 
 ## Contributing
 
